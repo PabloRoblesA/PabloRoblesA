@@ -7,7 +7,11 @@
 * Interesado en CiberSeguridad e Inteligencia Artificial.
 * En constante aprendizaje de nuevas herramientas.
 * Disfruto analizando datos por el desafio de diagnosticar o predecir lo que se desprende de ellos.
+* Conocimientos e intereses variados en areas como Geografia, Ventas retail, Venta inmobiliaria e Inversion bursatil.
 
+Contactame: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Robles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/pabloarobles)
 
 
 <img src="https://github.com/user-attachments/assets/c936e004-9616-4e28-905b-c70b3b809162" alt="Sin título5" width="500"/>
