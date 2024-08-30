@@ -11,7 +11,7 @@
 
 Contactame: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Robles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/pabloarobles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Robles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pabloarobles)
 
 
 <img src="https://github.com/user-attachments/assets/c936e004-9616-4e28-905b-c70b3b809162" alt="Sin título5" width="500"/>
